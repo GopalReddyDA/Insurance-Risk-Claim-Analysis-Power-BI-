@@ -55,3 +55,6 @@ Business Insights
 
 Business Objective :
 To help insurance teams monitor claims, understand customer risk patterns, analyze vehicle related claims, and make data driven business decisions.
+
+Report View :
+![]
